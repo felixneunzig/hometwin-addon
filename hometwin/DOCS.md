@@ -18,10 +18,12 @@ Szenenpaket für die Dashboard-Card.
   passend `.twin.json`) werden zu einem Projekt.
 - Card im Dashboard: `type: custom:hometwin-card`, `scene: /local/hometwin/<name>`.
 
-## Erster Start
+## Einrichten
 
-Die App bringt als Beispiel eine erfundene Testwohnung mit. Eigene Wohnungen
-kommen als Scan der iPhone-App oder als Projektdateien über „Hochladen“ dazu.
+Die Container liegen privat in der GitHub Container Registry. Home Assistant
+braucht dafür einmal einen Zugang: Apps, App-Store, oben rechts „Registries“,
+Server `ghcr.io`, Benutzer `felixneunzig`, als Passwort ein GitHub-Schlüssel
+nur mit dem Recht `read:packages`.
 
 ## Daten
 
