@@ -20,10 +20,9 @@ Szenenpaket für die Dashboard-Card.
 
 ## Einrichten
 
-Die Container liegen privat in der GitHub Container Registry. Home Assistant
-braucht dafür einmal einen Zugang: Apps, App-Store, oben rechts „Registries“,
-Server `ghcr.io`, Benutzer `felixneunzig`, als Passwort ein GitHub-Schlüssel
-nur mit dem Recht `read:packages`.
+Die Container liegen öffentlich in der GitHub Container Registry, Home Assistant
+holt sie ohne eigenen Zugang. Den Quelltext und eine geführte Einrichtung mit
+Claude Code gibt es unter https://github.com/felixneunzig/hometwin.
 
 ## Daten
 
