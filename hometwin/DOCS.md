@@ -22,7 +22,7 @@ Szenenpaket für die Dashboard-Card.
 
 Die Container liegen öffentlich in der GitHub Container Registry, Home Assistant
 holt sie ohne eigenen Zugang. Den Quelltext und eine geführte Einrichtung mit
-Claude Code gibt es unter https://github.com/felixneunzig/hometwin.
+Claude Code oder Codex gibt es unter https://github.com/felixneunzig/hometwin.
 
 ## Daten
 
